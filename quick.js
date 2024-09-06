@@ -1,4 +1,3 @@
-
 function quick(url, elementId) {
     fetch(url)
         .then(response => response.text())
