@@ -1,0 +1,8 @@
+Type: Album
+Title: Tomfoolery Demos
+Caption: Ashy's CD in it's case.
+Release Date: August 12, 2024
+Length: 14:56*
+
+#NOTES#
+Most Copies
